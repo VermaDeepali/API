@@ -1,4 +1,7 @@
-# References
+## JSON API
+-- A specification for building APIs in JSON
+
+## References
 
 https://jsonapi.org/
 
